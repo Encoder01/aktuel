@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857761763378",
+    "firebase_url": "https://aktuel-13c33.firebaseio.com",
+    "project_id": "aktuel-13c33",
+    "storage_bucket": "aktuel-13c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857761763378:android:a6d862ed4c65ba64b8ec2b",
+        "android_client_info": {
+          "package_name": "com.huzeyfe.aktuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857761763378-oqlggaj1quho132eh7pk7b7s5fpub5ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wEEcTenduKT2rnVppnPgwXVGfSWkof0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857761763378-oqlggaj1quho132eh7pk7b7s5fpub5ik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857761763378-gdic7flpddld4o37r832vvqs9inss9b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.huzeyfe.aktuel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
